@@ -5,7 +5,7 @@ CREATE TABLE blogful_users (
     password TEXT,
     nickname TEXT,
     date_created TIMESTAMPTZ NOT NULL DEFAULT now()
-)
+);
 
 ALTER TABLE blogful_articles
     ADD COLUMN
