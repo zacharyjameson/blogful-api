@@ -15,7 +15,7 @@
     "postdeploy": "npm run migrate:production"
   },
   "keywords": [],
-  "author": "Thomas `tomatao` Hudspith-Tatham <iammotivated@gmail.com>",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
